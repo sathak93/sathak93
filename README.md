@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I’m Sathakkadhullah 
-- 🔭 I’m have completed master's in Engineering Design from CEG, Chennai.
+- 🔭 I have completed master's in Engineering Design from CEG, Chennai.
 - 🌱 I’m currently learning Robotics, ROS2, Machine Learning, Neural Networks.
 - 👯 I’m looking to collaborate on projects related to Robotics, ROS2, AV, ML and Product Design.
 - 📫 How to reach me: sathak0730@gmail.com
