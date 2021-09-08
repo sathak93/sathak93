@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 </p>
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathak93&layout=compact&show_icons=true" alt="sathak93" /></p>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathak93" alt="sathakkadhullah" /></a> </p>
