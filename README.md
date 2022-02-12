@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Robotics, ROS2, Machine Learning, Neural Networks.
 - 👯 I’m looking to collaborate on projects related to Robotics, ROS2, AV, ML and Product Design.
 - 📫 How to reach me: sathak0730@gmail.com
-- 💻 Want to know more? Check out my [portfolio](http://sathak93.github.io/)<br><br><br>
+- 💻 Want to know more? Check out my porfolio <!--[portfolio](http://sathak93.github.io/)--><br><br><br>
 
 
 <p align="center">
