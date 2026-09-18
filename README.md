@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 
-- 🔭 3+ years of experience as a Simulation Engineer & Robotics Developer, consulting for [Skysolutions](https://www.skysolutions.mx),
+- 🔭 3+ years of experience as a Simulation Engineer & Robotics Developer, consulting for [Skysolutions](https://www.skysolutions.mx), Mexico
 - 🌱 I hold a Master's degree in Engineering Design from CEG - Guindy, Chennai 
 - 💼 Open to consulting or collaboration opportunities — find me on [Upwork](https://www.upwork.com/freelancers/~01504bcdb0efc43288)
 - 📫 Reach me at: sathak0730@gmail.com
