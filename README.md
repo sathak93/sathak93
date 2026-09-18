@@ -41,15 +41,12 @@
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sathak93&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathak93&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathak93&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/sathak93"><img align='Center' src="https://github-readme-stats.vercel.app/api?username=sathak93&count_private=true&show_icons=true&include_all_commits=true"></a>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sathak93" alt="sathak93" /></p>
+</p>
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sathak93&layout=compact&show_icons=true" alt="sathak93" /></p>
+</p>
 
 ---
 
