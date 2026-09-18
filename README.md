@@ -1,10 +1,5 @@
-<h2 align="center">Hey there 👋 I'm Sathakkadhullah!</h2>
-
-![](https://visitor-badge.glitch.me/badge?page_id=sathak93.profileviews-badge)
-<div align="center">
-
 <!-- Banner: replace this image URL with your own banner, or remove the <img> line -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A57,100:2C2C2C&height=200&section=header&text=Hi,%20I'm%20x&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B3A57,100:2C2C2C&height=200&section=header&text=Hi,%20I'm%20Sathakkadhullah!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
